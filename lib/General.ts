@@ -37,7 +37,8 @@ export class general extends global{
 
         console.log("clicked on add button");
         await frame.locator(this.textfield_lastname).fill(this.lastname);
-        //await frame.locator(this.textfield_Firstname).fill(this.firstname);
+        
+        await frame.locator(this.textfield_Firstname).fill(this.firstname);
         await frame.locator(this.textfiled_Middlename).fill(this.middlename);
         await frame.locator(this.textfield_Nickname).fill(this.nickname);
 

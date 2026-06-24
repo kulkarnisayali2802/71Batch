@@ -1,0 +1,6 @@
+Application opened
+username and password entered
+Login Successful
+clicked on add button
+clicked on save button, employee successfully created
+Logout successful

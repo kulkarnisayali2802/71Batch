@@ -1,0 +1,4 @@
+Application opened
+username and password entered
+Login Successful
+Logout successful
